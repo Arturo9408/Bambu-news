@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155935398407",
+    "firebase_url": "https://fir-bambu.firebaseio.com",
+    "project_id": "fir-bambu",
+    "storage_bucket": "fir-bambu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155935398407:android:93615f7bbe88aafdae68a2",
+        "android_client_info": {
+          "package_name": "com.app.bambuappabz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155935398407-vglokkvjd5h3inh3rpjvpqaioijeghmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.bambuappabz",
+            "certificate_hash": "68663d80cf95a624a08c4214672c9385336a7f49"
+          }
+        },
+        {
+          "client_id": "155935398407-k7a5i1gtptotupnvu7fmi68isbd1mcvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABfw5WCwyoDHa6aBicFS4T4R-i8o62XNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155935398407-k7a5i1gtptotupnvu7fmi68isbd1mcvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
